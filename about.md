@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm a BS Biochemistry major from California Polytechnic San Luis Obispo.
+Alyssa Jaslynn Chew is a BS Biochemistry major with a minor in Bioinformatics from California Polytechnic San Luis Obispo. She is currently pursuing her bachelor's degree from Cal Poly SLO.
 
-### More Information
+### Research Interests
 
-A place to include any other types of information that you'd like to include about yourself.
+Alyssa is currently doing research on Covalent Organic Frameworks with the Hamachi group under the guidance of Dr Leslie Hamachi, Assistant Professor. 
 
 ### Contact me
 
