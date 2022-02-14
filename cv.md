@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-permalink: /pubs/
+title: Curriculum Vitae
+permalink: /cv/
 ---
 
 1. A great publication.
