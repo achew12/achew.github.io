@@ -4,14 +4,15 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-Education:
+### Education:
+
 California Polytechnic State University, San Luis Obispo, CA (Expected 2024)
 
 BS Biochemistry
 
 Bioinformatics minor
 
-Experience:
+### Experience:
 Lab Teaching Assitant 2017-2018
 
 - Carried out lab demonstrations during class sessions
@@ -22,10 +23,11 @@ General Chemistry Lab Technician Student Assitant, Cal Poly SLO 2021 - present
 - Assist professors, students and learning assistants with questions or missing/requested items
 - Making sure that assigned lab is all stocked and clean before closing up
 
-Leadership and Activites:
+### Leadership and Activites:
 
-COSAM collective mentorship 2021 - present
+COSAM Mentor Collevtive 2021 - present
 - Help to create a safe and welcoming space for students from the same college
+- Discuss questions related to college life and guide mentors to achieving their goals
 
 SLO tutors 2021 – present
 -	Work with groups of students to provide help with concepts and homework in an after-school program
