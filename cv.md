@@ -41,5 +41,5 @@ ACS - American Chemical Society 2021 – present
 
 WOW orientation group leader 2021
 -	Focused on helping incoming students to adapt and familiarize themselves with the campus
--	Help to create a safe and welcoming space for students 
+-	Work with students from different backgrounds to help create a safe and welcoming space for students 
 
