@@ -8,7 +8,9 @@ Alyssa Jaslynn Chew is a BS Biochemistry major with a minor in Bioinformatics fr
 
 ### Research Interests
 
-Alyssa is currently doing research on Covalent Organic Frameworks with the Hamachi group under the guidance of Dr Leslie Hamachi, Assistant Professor. 
+Alyssa is currently doing research on Covalent Organic Frameworks (COF) with the Hamachi group under the guidance of Dr Leslie Hamachi, Assistant Professor. 
+
+She is interested in 2D COF's and extending its applications to safer water purification methods to improve water quality.
 
 ### Contact me
 
