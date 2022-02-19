@@ -1,7 +1,17 @@
 ---
 layout: page
-title: Group Members
-permalink: /people/
+title: References
+permalink: /ref/
 ---
 
-Include information about current and past group members here. 
+- General Chemistry Lab Technician, Cal Poly SLO
+
+Michele C. Zoff
+
+Email: mzoff@calpoly.edu
+
+- Hamachi Research Group, Cal Poly SLO
+
+Dr Leslie Hamachi
+
+Email: hamachi@calpoly.edu
