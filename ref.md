@@ -1,6 +1,6 @@
 ---
 layout: page
-title: References
+title: General References
 permalink: /ref/
 ---
 
