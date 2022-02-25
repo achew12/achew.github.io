@@ -12,7 +12,8 @@ Alyssa is currently doing research on Covalent Organic Frameworks (COF) with the
 
 She is interested in 2D COF's and extending its applications to safer water purification methods to improve water quality.
 
-Learn more about the group here: https://thehamachigroup.com
+Learn more about the group here:
+https://thehamachigroup.com
 
 ### Contact me
 
