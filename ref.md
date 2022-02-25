@@ -8,10 +8,10 @@ permalink: /ref/
 
 Michele C. Zoff
 
-Email: mzoff@calpoly.edu
+Email: mzoff@calpoly.edu.(mailto:mzoff@calpoly.edu)
 
 ### Hamachi Research Group, Cal Poly SLO
 
 Dr Leslie Hamachi
 
-Email: hamachi@calpoly.edu
+Email: hamachi@calpoly.edu.(mailto:hamachi@calpoly.edu)
