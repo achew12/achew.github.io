@@ -13,6 +13,14 @@ BS Biochemistry
 Bioinformatics minor
 
 ### Experience:
+
+Hamachi Group, Dr Leslie Hamachi January 2022 - present
+
+- Study Covalent Organic Framworks (COFs), and its extension to other fields of Chemistry
+- Study the effects of solvents on COFs
+- Analyzed the most effective way to purify COFs
+- Presented to the lab group on findings
+
 Lab Teaching Assitant 2017-2018
 
 - Carried out lab demonstrations during class sessions
