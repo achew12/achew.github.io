@@ -35,7 +35,7 @@ General Chemistry Lab Technician Student Assitant, Cal Poly SLO 2021 - present
 
 COSAM Mentor Collevtive 2021 - present
 - Help to create a safe and welcoming space for students from the same college
-- Discuss questions related to college life and guide mentors to achieving their goals
+- Discuss questions related to college life and guide mentees to achieving their goals
 
 SLO tutors 2021 – present
 -	Work with groups of students to provide help with concepts and homework in an after-school program
